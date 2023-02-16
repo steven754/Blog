@@ -9,7 +9,6 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/unknwon/com"
 	"net/http"
-	//"github.com/astaxie/beego/validation"
 )
 
 // 获取多个文章标签
